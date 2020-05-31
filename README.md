@@ -1,4 +1,5 @@
 
+CircuitPython BLE Heart Rate Zone Trainer Display
 
 https://learn.adafruit.com/circuitpython-ble-heart-rate-monitor-gizmo?view=all
 
